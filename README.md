@@ -10,7 +10,10 @@
   <li><a href=https://www.linkedin.com/in/thalia-loiola-b03377184/>Thalia Loiola Silva</a></li>
 </ul>
 
-<h3>Professor: <a href=https://www.linkedin.com/in/fabiodemiranda/>Me. Fábio Roberto de Miranda</a></h3>
+<h3>Professor:</h3> 
+<ul>
+  <li><a href=https://www.linkedin.com/in/fabiodemiranda/>Me. Fábio Roberto de Miranda</a></li>
+</ul>
 
 <h2>Informações do Projeto</h2>
 
