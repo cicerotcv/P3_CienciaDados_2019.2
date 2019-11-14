@@ -7,7 +7,7 @@
 <ul>
   <li>Cicero Tiago Carneiro Valentim</li>
   <li>Luiz Felipe Lazzaron</li>
-  <li>Marcos Vinícius da Silva</li>
+  <li><a> hrf = https://www.linkedin.com/in/marcos-vin%C3%ADcius-4a5674181/>Marcos Vinícius da Silva</a></li>
   <li>Thalia Loiola Silva</li>
 </ul>
 
