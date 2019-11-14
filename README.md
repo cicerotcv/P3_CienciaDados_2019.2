@@ -1,8 +1,6 @@
-<h1>Projeto de Ciência dos dados</h1>
+<h1>Projeto de Ciência dos Dados</h1>
 
 <h3>Engenharia Insper 2019.2</h3>
-
-<h3>Professor: Me. Fábio Roberto de Miranda</h3>
 
 <h3>Alunos:</h3>
 <ul>
@@ -12,6 +10,7 @@
   <li><a href=https://www.linkedin.com/in/thalia-loiola-b03377184/>Thalia Loiola Silva</a></li>
 </ul>
 
+<h3>Professor: Me. Fábio Roberto de Miranda</h3>
 
 <h2>Projeto 3</h2>
 
