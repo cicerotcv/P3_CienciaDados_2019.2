@@ -32,6 +32,6 @@ Desde 2008, convidados e anfitriões usam o Airbnb para expandir as possibilidad
 
 <h3>Reconhecimentos</h3>
 <p>
-Esse conjunto de dados público faz parte do Airbnb e a fonte original pode ser encontrada neste <a href = http://insideairbnb.com/ >site.</a>
+Esse <a href = https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data>conjunto</a> de dados públicos faz parte do Airbnb e a fonte original pode ser encontrada neste <a href = http://insideairbnb.com/ >site.</a>
 </p>
 
