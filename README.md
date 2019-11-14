@@ -23,3 +23,15 @@ Exploração e Visualização de Dados abertos do Airbnb em Nova York: Esta etap
 <p>
 Prevendo o preço de hospedagem no Airbnb com Python e Machine Learning: Nesta etapa utilizamos a linguagem Python e seus pacotes para criar um modelo preditivo capaz de prever o preço de hospedagem no Airbnb.
 </p>
+
+
+<h3>Contexto</h3>
+<p>
+Desde 2008, convidados e anfitriões usam o Airbnb para expandir as possibilidades de viajar e apresentar uma maneira mais única e personalizada de conhecer o mundo. Este conjunto de dados descreve a atividade e as métricas de listagem em Nova York, NY, para 2019.
+</p>
+
+<h3>Reconhecimentos</h3>
+<p>
+Esse conjunto de dados público faz parte do Airbnb e a fonte original pode ser encontrada neste: http://insideairbnb.com/
+</p>
+
