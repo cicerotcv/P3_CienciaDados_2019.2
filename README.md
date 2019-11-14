@@ -19,7 +19,7 @@
 
 <h3>Contexto</h3>
 <p>
-Desde 2008, convidados e anfitriões usam o Airbnb para expandir as possibilidades de viajar e apresentar uma maneira mais única e personalizada de conhecer o mundo. Este conjunto de dados descreve a atividade e as métricas de listagem em Nova York, NY, para 2019.
+Desde 2008, hóspedes e anfitriões têm usado a Airbnb para expandir as possibilidades de viagem. Este conjunto de dados descreve a atividade e as métricas de listagem em Nova York, NY, para 2019.
 </p>
 
 <h3>1ª Etapa</h3>
