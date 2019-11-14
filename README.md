@@ -14,10 +14,12 @@
 
 <h2>Projeto 3</h2>
 
+<h3>1ª Etapa</h3>
 <p>
-1ª Etapa
 Exploração e Visualização de Dados abertos do Airbnb em Nova York: Esta etapa tem como objetivo explorar e gerar visualizações sobre os dados de atividades no Airbnb e as métrias de listagem em Nova York utilizando a linguagem python e o ambiente interativo do jupyter notebook para demonstrar os passos das análises.
+</p>
 
-2ª Etapa
+<h3>2ª Etapa</h3>
+<p>
 Prevendo o preço de hospedagem no Airbnb com Python e Machine Learning: Nesta etapa utilizamos a linguagem Python e seus pacotes para criar um modelo preditivo capaz de prever o preço de hospedagem no Airbnb.
 </p>
