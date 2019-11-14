@@ -7,8 +7,8 @@
 <ul>
   <li>Cicero Tiago Carneiro Valentim</li>
   <li>Luiz Felipe Lazzaron</li>
-  <li><a href = https://www.linkedin.com/in/marcosvinis28/ > Marcos Vinícius da Silva</a></li>
-  <li>Thalia Loiola Silva</li>
+  <li><a href=https://www.linkedin.com/in/marcosvinis28/>Marcos Vinícius da Silva</a></li>
+  <li><a href=https://www.linkedin.com/in/thalia-loiola-b03377184/>Thalia Loiola Silva</a></li>
 </ul>
 
 
