@@ -12,7 +12,7 @@
 
 <h3>Professor: Me. Fábio Roberto de Miranda</h3>
 
-<h2>Projeto 3</h2>
+<h2>Informações do Projeto</h2>
 
 <h3>1ª Etapa</h3>
 <p>
