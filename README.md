@@ -1,5 +1,6 @@
-# P3_CienciaDados_2019.2
-<h1>Engenharia 2019.2 - Ciência dos dados</h1>
+<h1>Projeto de Ciência dos dados</h1>
+
+<h3>Engenharia Insper 2019.2</h3>
 
 <h3>Professor: Me. Fábio Roberto de Miranda</h3>
 
