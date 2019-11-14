@@ -2,7 +2,7 @@
 
 <h2>Informações do Gerais</h2>
 
-<h3>Engenharia Insper 2019.2 - Ciêncai dos Dados</h3>
+<h3>Engenharia Insper - Ciência dos Dados 2019.2</h3>
 
 <h3>Alunos:</h3>
 <ul>
