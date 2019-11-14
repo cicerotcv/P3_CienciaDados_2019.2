@@ -5,7 +5,7 @@
 
 <h3>Alunos:</h3>
 <ul>
-  <li>Cicero Tiago Carneiro Valentim</li>
+  <li><a href=https://www.linkedin.com/in/cicero-tiago-carneiro-valentim-971a57138/>Cicero Tiago Carneiro Valentim</a></li>
   <li><a href=https://www.linkedin.com/in/luiz-felipe-lazzaron-682676181/>Luiz Felipe Lazzaron</a></li>
   <li><a href=https://www.linkedin.com/in/marcosvinis28/>Marcos Vinícius da Silva</a></li>
   <li><a href=https://www.linkedin.com/in/thalia-loiola-b03377184/>Thalia Loiola Silva</a></li>
