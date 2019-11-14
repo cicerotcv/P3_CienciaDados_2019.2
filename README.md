@@ -12,7 +12,7 @@
 
 <h3>Professor:</h3> 
 <ul>
-  <li><a href=https://www.linkedin.com/in/fabiodemiranda/>Me. Fábio Roberto de Miranda</a></li>
+  <li><a href=https://www.linkedin.com/in/fabiodemiranda/>Me. Fabio Roberto de Miranda</a></li>
 </ul>
 
 <h2>Informações do Projeto</h2>
