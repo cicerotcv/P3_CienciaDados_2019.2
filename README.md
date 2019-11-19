@@ -39,13 +39,13 @@ Prevendo o preço de hospedagem no Airbnb com Python e Machine Learning: Nesta e
 Esse <a href = https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data>conjunto</a> de dados públicos faz parte do Airbnb e a fonte original pode ser encontrada neste <a href = http://insideairbnb.com/ >site</a>.
 </p>
 
-<h3> Sumário: </h3>
+<h2> Sumário: </h2>
 <ol>
    <li>Breve Introdução</li>
    <li>Importação das Bibliotecas</li>
    <li>Exploração e Preparação do Dataset</li>
    <li>Limpeza de Dados</li>
-   <li>Visualizando os Dados</li>
+   <li>Visualização dos Dados</li>
    <ul>
        <li>5.1 Analisando a variável <i>number_of_reviews</i>;</li>
        <li>5.2 Analisando a variável <i>price</i>;</li>
