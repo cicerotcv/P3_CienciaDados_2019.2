@@ -44,17 +44,13 @@ Esse <a href = https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data>co
    <li>Breve Introdução</li>
    <li>Importação das Bibliotecas</li>
    <li>Exploração e Preparação do Dataset</li>
-   <p></p>
    <li>Limpeza de Dados</li>
-   <p></p>
-   <li>Visualizando os Dados</li>
+   <li>Visualizando os Dado</li>
    <ul>
-       <li>7.1 Função Remove;</li>
-       <li>7.2 Função SpaceCleaning;</li>
-       <li>7.3 Função TratamentodoGrupo;</li>
-       <li>7.4 Função Stemming;</li>
-       <li>7.5 Função RemoveStopWords;</li>
-       <li>7.6 Tratando os Dados da Base de Treinamento;</li>
+       <li>5.1 Analisando a variável <i>number_of_reviews</i></li>
+       <li>5.2 Analisando a variável <i>price</i></li>
+       <li>5.3 Analisando a variável <i>room_type</i></li>
+       <li>5.4 Análise macro das variáveis</li>
    </ul>
    <p></p>
    <li>Naive Bayes e Laplace Smoothing</li>
