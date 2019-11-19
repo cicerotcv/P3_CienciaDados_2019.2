@@ -41,19 +41,15 @@ Esse <a href = https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data>co
 
 <h3> Sumário: </h3>
 <ol>
-   <li> Introdução </li>
+   <li>Breve Introdução</li>
    <p></p>
-   <li>Preparando Ambiente no Jupyter</li>
+   <li>Importação das Bibliotecas</li>
    <p></p>
-   <li>Autenticando no Twitter</li>
+   <li>Exploração e Preparação do Dataset</li>
    <p></p>
-   <li>Escolha de um produto</li>
+   <li>Limpeza de Dados</li>
    <p></p>
-   <li>Classificando as mensagens na coragem</li>
-   <p></p>
-   <li>Montando o Classificador Naive-Bayes</li>
-   <p></p>
-   <li>Limpeza e Tratamento de Dados</li>
+   <li>Visualizando os Dados</li>
    <ul>
        <li>7.1 Função Remove;</li>
        <li>7.2 Função SpaceCleaning;</li>
