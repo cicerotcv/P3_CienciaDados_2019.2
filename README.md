@@ -39,3 +39,47 @@ Prevendo o preço de hospedagem no Airbnb com Python e Machine Learning: Nesta e
 Esse <a href = https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data>conjunto</a> de dados públicos faz parte do Airbnb e a fonte original pode ser encontrada neste <a href = http://insideairbnb.com/ >site</a>.
 </p>
 
+<h3> Sumário: </h3>
+<ol>
+   <li> Introdução </li>
+   <p></p>
+   <li>Preparando Ambiente no Jupyter</li>
+   <p></p>
+   <li>Autenticando no Twitter</li>
+   <p></p>
+   <li>Escolha de um produto</li>
+   <p></p>
+   <li>Classificando as mensagens na coragem</li>
+   <p></p>
+   <li>Montando o Classificador Naive-Bayes</li>
+   <p></p>
+   <li>Limpeza e Tratamento de Dados</li>
+   <ul>
+       <li>7.1 Função Remove;</li>
+       <li>7.2 Função SpaceCleaning;</li>
+       <li>7.3 Função TratamentodoGrupo;</li>
+       <li>7.4 Função Stemming;</li>
+       <li>7.5 Função RemoveStopWords;</li>
+       <li>7.6 Tratando os Dados da Base de Treinamento;</li>
+   </ul>
+   <p></p>
+   <li>Naive Bayes e Laplace Smoothing</li>
+   <ul>
+       <li>8.1 Função lista_sem_repetição</li>
+       <li>8.2 Função laplace</li>
+       <li>8.3 Função numero_de_vezes</li>
+       <li>8.4 Função conta_palavras</li>
+   </ul>
+   <p></p>
+   <li>Verificando a performance na Planilha Testes</li>
+   <ul>
+       <li>9.1 Função limpeza_tweet;</li>
+       <li>9.2 Função analisa_frase;</li>
+       <li>9.3 Função identifica_valor_maximo;</li>
+       <li>9.4 Função resultado;</li>       
+   </ul>
+   <p></p>
+   <li>Conclusão</li>
+   <p></p>
+   <li>Referências</li>
+</ol>
