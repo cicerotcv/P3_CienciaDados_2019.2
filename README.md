@@ -45,30 +45,19 @@ Esse <a href = https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data>co
    <li>Importação das Bibliotecas</li>
    <li>Exploração e Preparação do Dataset</li>
    <li>Limpeza de Dados</li>
-   <li>Visualizando os Dado</li>
+   <li>Visualizando os Dados</li>
    <ul>
-       <li>5.1 Analisando a variável <i>number_of_reviews</i></li>
-       <li>5.2 Analisando a variável <i>price</i></li>
-       <li>5.3 Analisando a variável <i>room_type</i></li>
-       <li>5.4 Análise macro das variáveis</li>
+       <li>5.1 Analisando a variável <i>number_of_reviews</i>;</li>
+       <li>5.2 Analisando a variável <i>price</i>;</li>
+       <li>5.3 Analisando a variável <i>room_type</i>;</li>
+       <li>5.4 Análise macro das variáveis;</li>
    </ul>
-   <p></p>
-   <li>Naive Bayes e Laplace Smoothing</li>
-   <ul>
-       <li>8.1 Função lista_sem_repetição</li>
-       <li>8.2 Função laplace</li>
-       <li>8.3 Função numero_de_vezes</li>
-       <li>8.4 Função conta_palavras</li>
-   </ul>
-   <p></p>
-   <li>Verificando a performance na Planilha Testes</li>
-   <ul>
-       <li>9.1 Função limpeza_tweet;</li>
-       <li>9.2 Função analisa_frase;</li>
-       <li>9.3 Função identifica_valor_maximo;</li>
-       <li>9.4 Função resultado;</li>       
-   </ul>
-   <p></p>
+   <li>Medindo a Relação entre Variáveis</li>
+   <li>Agora vamos ao nosso modelo preditivo</li>
+   <li>O processo</li>
+   <li>Preparação dos Dados</li>
+   <li>Escolha das Variáveis Preditoras</li>
+   <li>Separação em Teste e Treinamento</li>
    <li>Conclusão</li>
    <p></p>
    <li>Referências</li>
