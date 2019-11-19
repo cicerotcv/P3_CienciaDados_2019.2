@@ -74,10 +74,10 @@ Esse <a href = https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data>co
 <p>Abaixo estão os arquivos utilizados nesse projeto:</p>
 <ol>
   <li>Arquivo 00 dataset_airbnb.ipynb - Notebook Principal</li>
-  <li>Arquivo 01 Regressão Linear.ipynb - Notebook Auxiliar</li>
-  <li>Arquivo 02 Regressão Logística.ipynb - Notebook Auxiliar</li>
-  <li>Arquivo 03 Árvore de Decisão.ipynb - Notebook Auxiliar</li>
-  <li>Arquivo 04 Random Forest.ipynb - Notebook Auxiliar</li> 
-  <li>Arquivo AB_NYC_2019.csv - Dataset</li>
-  <li>Arquivo New_York_City_.png - Imagem Auxiliar</li>
+  <li>Arquivo 01 Regressão Linear.ipynb - Notebook Auxiliar, para desenvolvimento da ferramena (Regressão Linear);</li>
+  <li>Arquivo 02 Regressão Logística.ipynb - Notebook Auxiliar, para desenvolvimento da ferramena (Regressão Logística);</li>
+  <li>Arquivo 03 Decision Tree.ipynb - Notebook Auxiliar, para desenvolvimento da ferramena (Deciosion Tree);</li>
+  <li>Arquivo 04 Random Forest.ipynb - Notebook Auxiliar, para desenvolvimento da ferramena (Random Forest);</li> 
+  <li>Arquivo AB_NYC_2019.csv - Dataset utilzado no projeto;</li>
+  <li>Arquivo New_York_City_.png - Imagem Auxiliar, presente no Arquivo 00;</li>
 </ol>
