@@ -1,4 +1,5 @@
 <h1>Projeto de Ciência dos Dados</h1>
+
 <h2>Informações Gerais</h2>
 
 <h3>Engenharia Insper - Ciência dos Dados 2019.2</h3>
@@ -41,9 +42,7 @@ Esse <a href = https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data>co
 <h3> Sumário: </h3>
 <ol>
    <li>Breve Introdução</li>
-   <p></p>
    <li>Importação das Bibliotecas</li>
-   <p></p>
    <li>Exploração e Preparação do Dataset</li>
    <p></p>
    <li>Limpeza de Dados</li>
