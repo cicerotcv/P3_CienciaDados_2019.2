@@ -1,5 +1,4 @@
 <h1>Projeto de Ciência dos Dados</h1>
-
 <h2>Informações Gerais</h2>
 
 <h3>Engenharia Insper - Ciência dos Dados 2019.2</h3>
