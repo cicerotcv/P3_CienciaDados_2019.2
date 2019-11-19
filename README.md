@@ -58,7 +58,14 @@ Esse <a href = https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data>co
    <li>Preparação dos Dados</li>
    <li>Escolha das Variáveis Preditoras</li>
    <li>Separação em Teste e Treinamento</li>
-   <li>Conclusão</li>
-   <p></p>
+   <li>Criando Modelo Preditivo</li>
+   <ul>
+     <li>12.1 Modelo 1 - Regressão Linear</li>
+     <li>12.2 Modelo 2 - Regressão Logística</li>
+     <li>12.3 Modelo 3 - Decision Tree</li>
+     <li>12.4 Modelo 4 - Random Forest</li>
+   </ul>
+   <li>Resultados</li>
+   <li>Conclusão e Publicação do Modelo</li>
    <li>Referências</li>
 </ol>
