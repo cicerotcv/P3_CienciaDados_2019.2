@@ -31,7 +31,7 @@ Exploração e Visualização de Dados abertos do Airbnb em Nova York: Esta etap
 
 <h3>2ª Etapa</h3>
 <p>
-Prevendo o preço de hospedagem no Airbnb com Python e Machine Learning: Nesta etapa utilizamos a linguagem Python e seus pacotes para criar um modelo preditivo capaz de prever o preço de hospedagem no Airbnb.
+Prevendo o preço de hospedagem no Airbnb com Python e Machine Learning: Nesta etapa utilizamos a linguagem Python e suas bibliotecas para criar um modelo preditivo capaz de prever o preço de hospedagem no Airbnb.
 </p>
 
 <h3>Reconhecimentos</h3>
@@ -39,3 +39,45 @@ Prevendo o preço de hospedagem no Airbnb com Python e Machine Learning: Nesta e
 Esse <a href = https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data>conjunto</a> de dados públicos faz parte do Airbnb e a fonte original pode ser encontrada neste <a href = http://insideairbnb.com/ >site</a>.
 </p>
 
+<h2> Sumário: </h2>
+<ol>
+   <li>Breve Introdução</li>
+   <li>Importação das Bibliotecas</li>
+   <li>Exploração e Preparação do Dataset</li>
+   <li>Limpeza de Dados</li>
+   <li>Visualização dos Dados</li>
+   <ul>
+       <li>5.1 Análise da variável <i>number_of_reviews</i>;</li>
+       <li>5.2 Análise da variável <i>price</i>;</li>
+       <li>5.3 Análise da variável <i>room_type</i>;</li>
+       <li>5.4 Análise macro das variáveis;</li>
+   </ul>
+   <li>Medindo a Relação entre Variáveis</li>
+   <li>Agora vamos ao nosso modelo preditivo</li>
+   <li>O processo</li>
+   <li>Preparação dos Dados</li>
+   <li>Escolha das Variáveis Preditoras</li>
+   <li>Separação em Teste e Treinamento</li>
+   <li>Criando Modelo Preditivo</li>
+   <ul>
+     <li>12.1 Modelo 1 - Regressão Linear;</li>
+     <li>12.2 Modelo 2 - Regressão Logística;</li>
+     <li>12.3 Modelo 3 - Decision Tree;</li>
+     <li>12.4 Modelo 4 - Random Forest;</li>
+   </ul>
+   <li>Resultados</li>
+   <li>Conclusão e Publicação do Modelo</li>
+   <li>Referências</li>
+</ol>
+
+<h2>Arquivos do Projeto</h2>
+<p>Abaixo estão os arquivos utilizados nesse projeto:</p>
+<ol>
+  <li>Arquivo <a href=https://github.com/cicerotcv/P3_CienciaDados_2019.2/blob/master/00%20dataset_airbnb.ipynb>00 dataset_airbnb.ipynb</a> - Notebook Principal</li>
+  <li>Arquivo <a href=https://github.com/cicerotcv/P3_CienciaDados_2019.2/blob/master/01%20Regress%C3%A3o%20Linear.ipynb>01 Regressão Linear.ipynb</a> - Notebook Auxiliar, para desenvolvimento da ferramena (Regressão Linear);</li>
+  <li>Arquivo <a href=https://github.com/cicerotcv/P3_CienciaDados_2019.2/blob/master/02%20Regress%C3%A3o%20Log%C3%ADstica.ipynb>02 Regressão Logística.ipynb</a> - Notebook Auxiliar, para desenvolvimento da ferramena (Regressão Logística);</li>
+  <li>Arquivo <a href=https://github.com/cicerotcv/P3_CienciaDados_2019.2/blob/master/03%20%C3%81rvore%20de%20Decis%C3%A3o.ipynb>03 Decision Tree.ipynb</a> - Notebook Auxiliar, para desenvolvimento da ferramena (Decision Tree);</li>
+  <li>Arquivo <a href=https://github.com/cicerotcv/P3_CienciaDados_2019.2/blob/master/04%20Random%20Forest.ipynb>04 Random Forest.ipynb</a> - Notebook Auxiliar, para desenvolvimento da ferramena (Random Forest);</li> 
+  <li>Arquivo <a href=https://github.com/cicerotcv/P3_CienciaDados_2019.2/blob/master/AB_NYC_2019.csv>AB_NYC_2019.csv</a> - Dataset utilzado no projeto;</li>
+  <li>Arquivo <a href=https://github.com/cicerotcv/P3_CienciaDados_2019.2/blob/master/New_York_City_.png>New_York_City_.png</a> - Imagem Auxiliar, presente no Arquivo 00;</li>
+</ol>
