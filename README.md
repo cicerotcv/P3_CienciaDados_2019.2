@@ -71,10 +71,13 @@ Esse <a href = https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data>co
 </ol>
 
 <h2>Arquivos do Projeto</h2>
+<p>Abaixo estão os arquivos utilizados nesse projeto:</p>
 <ol>
-  <li>Arquivo 00</li>
-  <li>Arquivo 01</li>
-  <li>Arquivo 02</li>
-  <li>Arquivo 03</li>
-  <li>Arquivo 04</li> 
+  <li>Arquivo 00 dataset_airbnb.ipynb - Notebook Principal</li>
+  <li>Arquivo 01 Regressão Linear.ipynb - Notebook Auxiliar</li>
+  <li>Arquivo 02 Regressão Logística.ipynb - Notebook Auxiliar</li>
+  <li>Arquivo 03 Árvore de Decisão.ipynb - Notebook Auxiliar</li>
+  <li>Arquivo 04 Random Forest.ipynb - Notebook Auxiliar</li> 
+  <li>Arquivo AB_NYC_2019.csv - Dataset</li>
+  <li>Arquivo New_York_City_.png - Imagem Auxiliar</li>
 </ol>
