@@ -47,9 +47,9 @@ Esse <a href = https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data>co
    <li>Limpeza de Dados</li>
    <li>Visualização dos Dados</li>
    <ul>
-       <li>5.1 Analisando a variável <i>number_of_reviews</i>;</li>
-       <li>5.2 Analisando a variável <i>price</i>;</li>
-       <li>5.3 Analisando a variável <i>room_type</i>;</li>
+       <li>5.1 Análise da variável <i>number_of_reviews</i>;</li>
+       <li>5.2 Análise da variável <i>price</i>;</li>
+       <li>5.3 Análise da variável <i>room_type</i>;</li>
        <li>5.4 Análise macro das variáveis;</li>
    </ul>
    <li>Medindo a Relação entre Variáveis</li>
