@@ -31,7 +31,7 @@ Exploração e Visualização de Dados abertos do Airbnb em Nova York: Esta etap
 
 <h3>2ª Etapa</h3>
 <p>
-Prevendo o preço de hospedagem no Airbnb com Python e Machine Learning: Nesta etapa utilizamos a linguagem Python e seus pacotes para criar um modelo preditivo capaz de prever o preço de hospedagem no Airbnb.
+Prevendo o preço de hospedagem no Airbnb com Python e Machine Learning: Nesta etapa utilizamos a linguagem Python e suas bibliotecas para criar um modelo preditivo capaz de prever o preço de hospedagem no Airbnb.
 </p>
 
 <h3>Reconhecimentos</h3>
