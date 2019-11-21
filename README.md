@@ -75,7 +75,7 @@ Esse <a href = https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data>co
 <ol>
   <li>Arquivo <a href=https://github.com/cicerotcv/P3_CienciaDados_2019.2/blob/master/00%20dataset_airbnb.ipynb>00 dataset_airbnb.ipynb</a> - Notebook Principal</li>
   <li>Arquivo <a href=https://github.com/cicerotcv/P3_CienciaDados_2019.2/blob/master/01%20Regress%C3%A3o%20Linear.ipynb>01 Regressão Linear.ipynb</a> - Notebook Auxiliar, para desenvolvimento da ferramena (Regressão Linear);</li>
-  <li>Arquivo <a href=https://github.com/cicerotcv/P3_CienciaDados_2019.2/blob/master/02%20Regress%C3%A3o%20Log%C3%ADstica.ipynb>02 Nearest Neighbors.ipynb</a> - Notebook Auxiliar, para desenvolvimento da ferramena (Regressão K-Nearest Neighbors);</li>
+  <li>Arquivo <a href=https://github.com/cicerotcv/P3_CienciaDados_2019.2/blob/master/02%20Regress%C3%A3o%20Log%C3%ADstica.ipynb>02 K-Nearest Neighbors.ipynb</a> - Notebook Auxiliar, para desenvolvimento da ferramena (K-Nearest Neighbors);</li>
   <li>Arquivo <a href=https://github.com/cicerotcv/P3_CienciaDados_2019.2/blob/master/03%20%C3%81rvore%20de%20Decis%C3%A3o.ipynb>03 Decision Tree.ipynb</a> - Notebook Auxiliar, para desenvolvimento da ferramena (Decision Tree);</li>
   <li>Arquivo <a href=https://github.com/cicerotcv/P3_CienciaDados_2019.2/blob/master/04%20Random%20Forest.ipynb>04 Random Forest.ipynb</a> - Notebook Auxiliar, para desenvolvimento da ferramena (Random Forest);</li> 
   <li>Arquivo <a href=https://github.com/cicerotcv/P3_CienciaDados_2019.2/blob/master/AB_NYC_2019.csv>AB_NYC_2019.csv</a> - Dataset utilzado no projeto;</li>
